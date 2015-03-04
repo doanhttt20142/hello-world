@@ -1,0 +1,3 @@
+Các tính năng mà hệ thống sẽ cung cấp cho người dùng là:
+1-Cung cấp thông tin về các điểm đến.
+2-Cung cấp thông tin về nơi ở: khách sạn nhà nghỉ
